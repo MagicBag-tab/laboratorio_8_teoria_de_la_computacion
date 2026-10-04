@@ -1,0 +1,8 @@
+n,tiempo_segundos,estado
+1,8.600065484642982e-06,Completado
+10,1.0699965059757233e-05,Completado
+100,0.0010613000486046076,Completado
+1000,0.10315480001736432,Completado
+10000,13.069200900034048,Completado
+100000,,No terminó en el límite de 30 s
+1000000,,No terminó en el límite de 30 s
